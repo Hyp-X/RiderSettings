@@ -29,5 +29,6 @@
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
     <entry key="ide.new.project.model" value="false" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
   </component>
 </application>
