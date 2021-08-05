@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="hlsli" type="C++ Header" />
+      <removed_mapping ext="hlsli" approved="true" type="C++ Header" />
     </extensionMap>
   </component>
 </application>
