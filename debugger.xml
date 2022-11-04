@@ -10,6 +10,12 @@
           <option name="breakOnUserUnhandledExceptions" value="true" />
         </configuration>
       </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+          <option name="SHOW_FRAME_MODULE_NAME" value="true" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
