@@ -184,6 +184,12 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ActiveConfiguration" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <path value="RunToolbarWidgetCustomizableActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="ActiveConfiguration" icon="jar:file:/C:/Program%20Files/JetBrains/JetBrains%20Rider%202021.2.2/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
